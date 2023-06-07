@@ -1,8 +1,8 @@
 package com.spinach.handler;
 
 import com.alibaba.fastjson.JSON;
-import com.sangeng.domain.ResponseResult;
-import com.sangeng.utils.WebUtils;
+import com.spinach.entity.ResponseResult;
+import com.spinach.utils.WebUtils;
 import org.springframework.http.HttpStatus;
 import org.springframework.security.access.AccessDeniedException;
 import org.springframework.security.web.access.AccessDeniedHandler;
